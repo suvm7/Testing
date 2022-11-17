@@ -1,1 +1,1 @@
-Here I am writing some sample text.
+This is a conflict line.
