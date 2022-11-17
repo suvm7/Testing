@@ -1,1 +1,7 @@
+
 This is a conflict line.
+
+Here will be a conflict.
+And This is a conflict line.
+
+Solved conflict
