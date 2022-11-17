@@ -6,3 +6,4 @@ I am a student Developer
 
 This is some sample text
 Here I am testing merging and this is a conflict line.
+Testing line.
